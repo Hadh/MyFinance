@@ -13,3 +13,4 @@ C:\Users\hadhe\Desktop\Archi N-Tiers\NTIERS-Workspace\MyFinance\MyFinance.Data\o
 C:\Users\hadhe\Desktop\Archi N-Tiers\NTIERS-Workspace\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.Migrations.InitialCreate.resources
 C:\Users\hadhe\Desktop\Archi N-Tiers\NTIERS-Workspace\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.csproj.GenerateResource.Cache
 C:\Users\hadhe\Desktop\Archi N-Tiers\NTIERS-Workspace\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.Migrations.mm.resources
+C:\Users\hadhe\Desktop\Archi N-Tiers\NTIERS-Workspace\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.Migrations.ChangesFluentAPI.resources

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MyFinance.Domain.Entities
 {
-    class Chemical:Product
+    public class Chemical:Product
     {
         public string City { get; set; }
         public string LabName { get; set; }

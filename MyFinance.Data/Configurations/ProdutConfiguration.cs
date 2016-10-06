@@ -24,6 +24,10 @@ namespace MyFinance.Data.Configurations
                                     p.MapRightKey("ProviderId");
                                     p.ToTable("Product_Provider");
                                 });
+
+            /* DESCRIMINATOR : 1 MEANS isBiological */ 
+            Map<Biological>(c => c.Requires("IsBiological").HasValue(1));
+            Map<Chemical>(c => c.Requires("IsBiological").HasValue(0));
         }
     }
 }
