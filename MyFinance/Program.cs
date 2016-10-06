@@ -17,6 +17,7 @@ namespace MyFinance
             {
                 name="Cat_1",
                 
+
             };
             fContext.Categorys.Add(cat1);
            

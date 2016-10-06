@@ -10,3 +10,6 @@ C:\Users\hadhe\Desktop\Archi N-Tiers\NTIERS-Workspace\MyFinance\MyFinance.Data\b
 C:\Users\hadhe\Desktop\Archi N-Tiers\NTIERS-Workspace\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.csprojResolveAssemblyReference.cache
 C:\Users\hadhe\Desktop\Archi N-Tiers\NTIERS-Workspace\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.dll
 C:\Users\hadhe\Desktop\Archi N-Tiers\NTIERS-Workspace\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.pdb
+C:\Users\hadhe\Desktop\Archi N-Tiers\NTIERS-Workspace\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.Migrations.InitialCreate.resources
+C:\Users\hadhe\Desktop\Archi N-Tiers\NTIERS-Workspace\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.csproj.GenerateResource.Cache
+C:\Users\hadhe\Desktop\Archi N-Tiers\NTIERS-Workspace\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.Migrations.mm.resources

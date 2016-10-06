@@ -7,13 +7,13 @@ namespace MyFinance.Data.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.1.3-40302")]
-    public sealed partial class InitialCreate : IMigrationMetadata
+    public sealed partial class mm : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(InitialCreate));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(mm));
         
         string IMigrationMetadata.Id
         {
-            get { return "201609291520314_InitialCreate"; }
+            get { return "201610061000282_mm"; }
         }
         
         string IMigrationMetadata.Source

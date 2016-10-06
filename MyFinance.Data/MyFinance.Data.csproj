@@ -49,9 +49,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Migrations\201609291520314_InitialCreate.cs" />
-    <Compile Include="Migrations\201609291520314_InitialCreate.Designer.cs">
-      <DependentUpon>201609291520314_InitialCreate.cs</DependentUpon>
+    <Compile Include="Migrations\201610060957565_InitialCreate.cs" />
+    <Compile Include="Migrations\201610060957565_InitialCreate.Designer.cs">
+      <DependentUpon>201610060957565_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201610061000282_mm.cs" />
+    <Compile Include="Migrations\201610061000282_mm.Designer.cs">
+      <DependentUpon>201610061000282_mm.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="MyFinanceContext.cs" />
@@ -69,8 +73,11 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201609291520314_InitialCreate.resx">
-      <DependentUpon>201609291520314_InitialCreate.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201610060957565_InitialCreate.resx">
+      <DependentUpon>201610060957565_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201610061000282_mm.resx">
+      <DependentUpon>201610061000282_mm.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

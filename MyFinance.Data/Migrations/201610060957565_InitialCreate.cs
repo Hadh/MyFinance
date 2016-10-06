@@ -23,11 +23,11 @@ namespace MyFinance.Data.Migrations
                     {
                         productId = c.Int(nullable: false, identity: true),
                         DateProd = c.DateTime(nullable: false),
-                        description = c.String(),
-                        name = c.String(),
+                        description = c.String(maxLength: 256),
+                        name = c.String(nullable: false, maxLength: 25),
                         price = c.Double(nullable: false),
                         quantity = c.Int(nullable: false),
-                        CategoryId = c.Int(nullable: false),
+                        CategoryId = c.Int(),
                         herbs = c.String(),
                         City = c.String(),
                         LabName = c.String(),
@@ -35,7 +35,7 @@ namespace MyFinance.Data.Migrations
                         Discriminator = c.String(nullable: false, maxLength: 128),
                     })
                 .PrimaryKey(t => t.productId)
-                .ForeignKey("dbo.Categories", t => t.CategoryId, cascadeDelete: true)
+                .ForeignKey("dbo.Categories", t => t.CategoryId)
                 .Index(t => t.CategoryId);
             
             CreateTable(
@@ -43,11 +43,10 @@ namespace MyFinance.Data.Migrations
                 c => new
                     {
                         Id = c.Int(nullable: false, identity: true),
-                        confirmPassword = c.String(),
                         DateCreated = c.DateTime(nullable: false),
                         email = c.String(),
                         isApproved = c.Boolean(nullable: false),
-                        password = c.String(),
+                        password = c.String(nullable: false),
                         UserName = c.String(),
                     })
                 .PrimaryKey(t => t.Id);
