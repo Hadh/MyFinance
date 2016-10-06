@@ -1,0 +1,12 @@
+C:\Users\hadhe\Desktop\Archi N-Tiers\NTIERS-Workspace\MyFinance\MyFinance.Data\bin\Debug\MyFinance.Data.dll.config
+C:\Users\hadhe\Desktop\Archi N-Tiers\NTIERS-Workspace\MyFinance\MyFinance.Data\bin\Debug\MyFinance.Data.dll
+C:\Users\hadhe\Desktop\Archi N-Tiers\NTIERS-Workspace\MyFinance\MyFinance.Data\bin\Debug\MyFinance.Data.pdb
+C:\Users\hadhe\Desktop\Archi N-Tiers\NTIERS-Workspace\MyFinance\MyFinance.Data\bin\Debug\EntityFramework.dll
+C:\Users\hadhe\Desktop\Archi N-Tiers\NTIERS-Workspace\MyFinance\MyFinance.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hadhe\Desktop\Archi N-Tiers\NTIERS-Workspace\MyFinance\MyFinance.Data\bin\Debug\MyFinance.Domain.dll
+C:\Users\hadhe\Desktop\Archi N-Tiers\NTIERS-Workspace\MyFinance\MyFinance.Data\bin\Debug\MyFinance.Domain.pdb
+C:\Users\hadhe\Desktop\Archi N-Tiers\NTIERS-Workspace\MyFinance\MyFinance.Data\bin\Debug\EntityFramework.xml
+C:\Users\hadhe\Desktop\Archi N-Tiers\NTIERS-Workspace\MyFinance\MyFinance.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hadhe\Desktop\Archi N-Tiers\NTIERS-Workspace\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.csprojResolveAssemblyReference.cache
+C:\Users\hadhe\Desktop\Archi N-Tiers\NTIERS-Workspace\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.dll
+C:\Users\hadhe\Desktop\Archi N-Tiers\NTIERS-Workspace\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.pdb
